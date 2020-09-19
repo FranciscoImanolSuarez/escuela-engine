@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "c#Fundamentos/1.0.0": {
+        "runtime": {
+          "c#Fundamentos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c#Fundamentos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

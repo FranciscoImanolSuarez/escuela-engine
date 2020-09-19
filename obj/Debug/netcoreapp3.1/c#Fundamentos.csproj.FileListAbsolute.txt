@@ -1,0 +1,13 @@
+C:\Users\54280\Documents\Platzi\c#Fundamentos\bin\Debug\netcoreapp3.1\c#Fundamentos.exe
+C:\Users\54280\Documents\Platzi\c#Fundamentos\bin\Debug\netcoreapp3.1\c#Fundamentos.deps.json
+C:\Users\54280\Documents\Platzi\c#Fundamentos\bin\Debug\netcoreapp3.1\c#Fundamentos.runtimeconfig.json
+C:\Users\54280\Documents\Platzi\c#Fundamentos\bin\Debug\netcoreapp3.1\c#Fundamentos.runtimeconfig.dev.json
+C:\Users\54280\Documents\Platzi\c#Fundamentos\bin\Debug\netcoreapp3.1\c#Fundamentos.dll
+C:\Users\54280\Documents\Platzi\c#Fundamentos\bin\Debug\netcoreapp3.1\c#Fundamentos.pdb
+C:\Users\54280\Documents\Platzi\c#Fundamentos\obj\Debug\netcoreapp3.1\c#Fundamentos.csprojAssemblyReference.cache
+C:\Users\54280\Documents\Platzi\c#Fundamentos\obj\Debug\netcoreapp3.1\c#Fundamentos.AssemblyInfoInputs.cache
+C:\Users\54280\Documents\Platzi\c#Fundamentos\obj\Debug\netcoreapp3.1\c#Fundamentos.AssemblyInfo.cs
+C:\Users\54280\Documents\Platzi\c#Fundamentos\obj\Debug\netcoreapp3.1\c#Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\54280\Documents\Platzi\c#Fundamentos\obj\Debug\netcoreapp3.1\c#Fundamentos.dll
+C:\Users\54280\Documents\Platzi\c#Fundamentos\obj\Debug\netcoreapp3.1\c#Fundamentos.pdb
+C:\Users\54280\Documents\Platzi\c#Fundamentos\obj\Debug\netcoreapp3.1\c#Fundamentos.genruntimeconfig.cache
