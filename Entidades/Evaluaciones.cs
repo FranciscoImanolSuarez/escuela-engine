@@ -1,17 +1,16 @@
 using System;
-using System.Collections.Generic;
 
 namespace CoreEscuela.Entidades
 {
-    public class Curso
+    public class Evaluaciones
     {
         public string UniqueId { get; private set; } //se asigna por dentro de la clase no por fuera
         public string Nombre { get; set; }
-        public TiposJornadas Jornada { get; set; }
-        public List<Asignatura> Asignaturas {get; set;}
-        public List<Alumno> Alumnos {get; set;}
 
-        public Curso()
+        public Alumno Alumno { get; set; }
+        public Asignatura Asignatura { get; set; }
+        public float Nota { get; set; }
+        public Evaluaciones()
         {
             UniqueId = Guid.NewGuid().ToString();
         }
